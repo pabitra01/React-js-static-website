@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page1{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    background-color: #E69A8DFF;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(207, 207, 207);
+    margin: 100px auto;
+}
+.page2{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    background-color: #5F4B8BFF;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(207, 207, 207);
+    margin: 100px auto;
+}
+.page3{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    background-color:cornflowerblue;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(207, 207, 207);
+    margin: 100px auto;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px rgb(207, 207, 207);
+}
+.two ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.two ul li{
+    list-style: none;
+    margin: 0 10px;
+}
+.two ul li a{
+    text-decoration: none;
+    color: #5F4B8BFF;
+}
+.one h2{
+    color: #5F4B8BFF;
+}
+.three button{
+    padding: 10px;
+    background-color: #E69A8DFF;
+    border: none;
+    border-radius: 10px;
+}
